@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>&quot;se va a usar&quot;</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>&quot;se va a usar para estto otro&quot;</string>
 </dict>
 </plist>

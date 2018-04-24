@@ -18,5 +18,9 @@
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Speak and watch your words become text or say a color to see the box change colors.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Your speech will be detected after tapping the start button.”</string>
 </dict>
 </plist>
